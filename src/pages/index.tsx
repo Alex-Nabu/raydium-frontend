@@ -64,8 +64,8 @@ function HomePageSection0() {
       <Image src="/backgroundImages/home-bg-element-1.png" className="w-[744px] mobile:w-[394px]" />
       <div className="grid-cover-content children-center">
         <div className="font-light text-[64px] mobile:text-[30px] text-white mb-4 mt-14 mobile:mt-9 leading-[60px] mobile:leading-[32px]">
-          An avenue for <br />
-          the evolution of{' '}
+      The Future<br />
+          of Solana is{' '}
           <span
             className="font-bold text-transparent bg-clip-text"
             style={{
@@ -74,7 +74,7 @@ function HomePageSection0() {
               WebkitBackgroundClip: 'text'
             }}
           >
-            DeFi
+            Pixels
           </span>
         </div>
         <div className="font-normal text-xl mobile:text-base text-[#adc6ff] mb-6">
